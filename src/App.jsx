@@ -8,7 +8,7 @@ function App() {
       <header className="bg-blue-900 text-white">
         <div className="container mx-auto px-4 py-16">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Advanced PLC & SCADA Solutions
+            Voltrio Solutions Pvt Ltd
           </h1>
           <p className="text-xl md:text-2xl mb-8">
             Empowering Industry 4.0 with Smart Automation
@@ -113,7 +113,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2023 PLC & SCADA Solutions. All rights reserved.</p>
+          <p>&copy; 2023 Voltrio Solutions Pvt Ltd. All rights reserved.</p>
         </div>
       </footer>
     </div>
